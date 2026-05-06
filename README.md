@@ -1,5 +1,7 @@
 <div align="center">
-# Shamithaa Uday
+  
+## Shamithaa Uday
+
 </div>
 
 👩‍💻 Student at Vellore Institute of Technology, Chennai
